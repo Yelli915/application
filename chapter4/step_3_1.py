@@ -9,5 +9,5 @@ with open(OUT_2_2_VCF,encoding="utf-8") as fp :
 qr = QRCode()
 qr.add_data(vcf)
 img = qr.make(image_factory = StyledPilImage, embeded_image_path = IN_DIR/"phone.png",)
-#삽입하는 이미지 필요해요
+# 삽입하는 이미지 필요해요
 img
