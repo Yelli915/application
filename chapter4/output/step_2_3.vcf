@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+EMAIL;TYPE=WORK:email@example.com
+FN:혼자 만들며 배우는 파이썬
+N:혼자 만들며 배우는;파이썬;;;
+ORG:(직장) 종로구청;(부서)디지털행정팀
+TEL;TYPE=CELL:+82(10)1234-5678
+TEL;TYPE=WORK:+82(2)1234-5678
+TITLE:programmer
+URL:https://data.seoul.go.kr/SeoulRtd/list
+END:VCARD
